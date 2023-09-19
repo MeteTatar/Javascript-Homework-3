@@ -75,6 +75,7 @@ const menu = [
 
 
 
+
 // HTML öğelerini seçer
 const btnContainer = document.querySelector(".btn-container");
 const foodMenu = document.querySelector(".section-center");
